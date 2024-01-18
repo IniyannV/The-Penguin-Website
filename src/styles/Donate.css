@@ -1,0 +1,21 @@
+.donate-btn {
+    background-color: rgb(56, 56, 56);
+    color: white;
+    position: fixed;
+    top: 680px;
+    width: 30%;
+    left: calc(50% - 15%);
+    size: 5%;
+    padding: 1%;
+    font-size: x-large;
+}
+
+.penguin-beg-img {
+    position: relative;
+    top: 150px;
+    width: 30%;
+}
+
+.filler {
+    stroke: rgb(158, 74, 27);
+}
